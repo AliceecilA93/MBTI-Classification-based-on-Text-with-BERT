@@ -12,15 +12,14 @@
 코드     | 코드 링크   | 
 :-------:|:-----------:|
 텍스트 전처리|[Text_Preprocess](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/Text_Preprocess.ipynb)|         
-MBTI 이진분류 | [MBTI Classification (Binary)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification%20(Binary_Kaggle).ipynb)|  MBTI 16분류| [MBTI Classification(16)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification(16_Kaggle).ipynb)|         
-Confusion Matrix| [MBTI Confusion Matrix](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Confustion%20matrix.ipynb) |        
-Wordcloud| [MBTI Wordcloud](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Wordcloud.ipynb)|          
+MBTI 이진분류 | [MBTI Classification (Binary)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification%20(Binary_Kaggle).ipynb)|
+MBTI 16분류| [MBTI Classification(16)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification(16_Kaggle).ipynb)|   Confusion Matrix| [MBTI Confusion Matrix](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Confustion%20matrix.ipynb) |        Wordcloud| [MBTI Wordcloud](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Wordcloud.ipynb)|          
 
 
 ## 사용된 데이터  
 
 - Reddit data [final_2700.pkl](https://drive.google.com/uc?id=1--Kj5WvDiNmwzYwPp4L12LMuCqP0xqJU)
-- Personality cafe data [kaggledata.pkl](https://drive.google.com/uc id=1NmSV5Oaa2UIrSloWEQGgNvRyBRIDYNdA)
+- Personality cafe data [kaggledata.pkl](https://drive.google.com/uc?id=1NmSV5Oaa2UIrSloWEQGgNvRyBRIDYNdA)
 
 ## 사용된 모델 
 
@@ -57,6 +56,7 @@ Wordcloud| [MBTI Wordcloud](https://github.com/AliceecilA93/MBTI-Classification-
  4. 데이터셋 분석
   
   - Reddit data
+  
  ![image](https://user-images.githubusercontent.com/112064534/207056926-e59eaeab-7ab6-42b9-81ea-85bb9e1f8aa7.png)
  
   - Personality cafe data
@@ -78,6 +78,7 @@ Wordcloud| [MBTI Wordcloud](https://github.com/AliceecilA93/MBTI-Classification-
 ## 참조
 -DEVLIN, Jacob, et al. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805, 2018.
 https://doi.org/10.48550/arXiv.1810.04805 
+
 -SANH, Victor, et al. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. arXiv preprint arXiv:1910.01108, 2019.
 https://doi.org/10.48550/arXiv.1910.01108 
 
