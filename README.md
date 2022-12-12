@@ -13,7 +13,9 @@
 :-------:|:-----------:|
 텍스트 전처리|[Text_Preprocess](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/Text_Preprocess.ipynb)|         
 MBTI 이진분류 | [MBTI Classification (Binary)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification%20(Binary_Kaggle).ipynb)|
-MBTI 16분류| [MBTI Classification(16)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification(16_Kaggle).ipynb)|   Confusion Matrix| [MBTI Confusion Matrix](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Confustion%20matrix.ipynb) |        Wordcloud| [MBTI Wordcloud](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Wordcloud.ipynb)|          
+MBTI 16분류| [MBTI Classification(16)](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI%20Classification(16_Kaggle).ipynb)| 
+Confusion Matrix| [MBTI Confusion Matrix](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Confustion%20matrix.ipynb) |
+Wordcloud| [MBTI Wordcloud](https://github.com/AliceecilA93/MBTI-Classification-based-on-Text-with-BERT/blob/main/MBTI_Wordcloud.ipynb)|          
 
 
 ## 사용된 데이터  
